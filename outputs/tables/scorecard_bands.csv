@@ -1,0 +1,4 @@
+risk_band,employees,pct_of_employees,leavers,pct_of_leavers,attrition_rate_pct,lift
+1. Low (0-2),1349,13.5,67,3.0,4.97,0.22
+2. Medium (3-4),5467,54.7,737,32.8,13.48,0.6
+3. High (5-8),3184,31.8,1443,64.2,45.32,2.02

@@ -1,0 +1,22 @@
+factor,test,statistic,p_value,effect_size,effect_measure,bonferroni_alpha,significant_after_correction,effect_strength
+environment_satisfaction,chi-square,483.0,3.2314589403664054e-103,0.22,Cramer's V,0.002380952380952381,True,small
+distance_from_home,Mann-Whitney U,10512306.0,1.41306269818933e-50,0.207,rank-biserial (+ = leavers higher),0.002380952380952381,True,small
+job_involvement,chi-square,328.9,6.331754294723256e-70,0.181,Cramer's V,0.002380952380952381,True,small
+years_since_promotion,Mann-Whitney U,10193168.0,3.284612691604873e-35,0.17,rank-biserial (+ = leavers higher),0.002380952380952381,True,small
+work_life_balance,chi-square,279.9,2.3432224358334387e-59,0.167,Cramer's V,0.002380952380952381,True,small
+business_travel,chi-square,202.0,1.3395656869181218e-44,0.142,Cramer's V,0.002380952380952381,True,small
+job_satisfaction,chi-square,82.1,6.351291970756914e-17,0.091,Cramer's V,0.002380952380952381,True,very small
+overtime,chi-square,33.9,5.72418610781457e-09,0.058,Cramer's V,0.002380952380952381,True,very small
+job_level,chi-square,8.8,0.26715611268113104,0.03,Cramer's V,0.002380952380952381,False,negligible
+job_role,chi-square,7.4,0.7655096080891204,0.027,Cramer's V,0.002380952380952381,False,negligible
+department,chi-square,5.9,0.2065660343254849,0.024,Cramer's V,0.002380952380952381,False,negligible
+marital_status,chi-square,2.8,0.24051612523070323,0.017,Cramer's V,0.002380952380952381,False,negligible
+education,chi-square,3.0,0.5549982246745547,0.017,Cramer's V,0.002380952380952381,False,negligible
+years_in_role,Mann-Whitney U,8583203.0,0.28876922635899116,-0.015,rank-biserial (+ = leavers higher),0.002380952380952381,False,negligible
+total_experience_years,Mann-Whitney U,8599314.0,0.3556085827591643,-0.013,rank-biserial (+ = leavers higher),0.002380952380952381,False,negligible
+salary_hike_pct,Mann-Whitney U,8808957.0,0.41382455980234,0.011,rank-biserial (+ = leavers higher),0.002380952380952381,False,negligible
+age,Mann-Whitney U,8640409.0,0.5607067320447411,-0.008,rank-biserial (+ = leavers higher),0.002380952380952381,False,negligible
+companies_worked_before,Mann-Whitney U,8757058.0,0.6979918100695839,0.005,rank-biserial (+ = leavers higher),0.002380952380952381,False,negligible
+salary,Mann-Whitney U,8748640.0,0.7515728607956356,0.004,rank-biserial (+ = leavers higher),0.002380952380952381,False,negligible
+gender,chi-square,0.0,0.883163493518432,0.001,Cramer's V,0.002380952380952381,False,negligible
+years_at_company,Mann-Whitney U,8716620.0,0.9592972074188438,0.001,rank-biserial (+ = leavers higher),0.002380952380952381,False,negligible
